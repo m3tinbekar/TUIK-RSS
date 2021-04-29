@@ -1,0 +1,16 @@
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\bin\Debug\tuikUygulama.exe.config
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\bin\Debug\tuikUygulama.exe
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\bin\Debug\tuikUygulama.pdb
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\bin\Debug\WebDriver.dll
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\bin\Debug\WebDriver.xml
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\obj\Debug\tuikUygulama.csprojAssemblyReference.cache
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\obj\Debug\tuikUygulama.tuikHaberForm.resources
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\obj\Debug\tuikUygulama.Properties.Resources.resources
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\obj\Debug\tuikUygulama.csproj.GenerateResource.cache
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\obj\Debug\tuikUygulama.csproj.CoreCompileInputs.cache
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\obj\Debug\tuikUygulama.csproj.CopyComplete
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\obj\Debug\tuikUygulama.exe
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\obj\Debug\tuikUygulama.pdb
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\bin\Debug\WebDriver.Support.dll
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\bin\Debug\WebDriver.Support.xml
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\bin\Debug\Tulpep.NotificationWindow.dll

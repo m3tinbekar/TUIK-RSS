@@ -1,0 +1,12 @@
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\bin\x86\Debug\tuikUygulama.exe.config
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\bin\x86\Debug\tuikUygulama.exe
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\bin\x86\Debug\tuikUygulama.pdb
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\bin\x86\Debug\WebDriver.dll
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\bin\x86\Debug\WebDriver.xml
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\obj\x86\Debug\tuikUygulama.tuikHaberForm.resources
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\obj\x86\Debug\tuikUygulama.Properties.Resources.resources
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\obj\x86\Debug\tuikUygulama.csproj.GenerateResource.cache
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\obj\x86\Debug\tuikUygulama.csproj.CoreCompileInputs.cache
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\obj\x86\Debug\tuikUygulama.csproj.CopyComplete
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\obj\x86\Debug\tuikUygulama.exe
+C:\Users\metin\source\repos\tuikUygulama\tuikUygulama\obj\x86\Debug\tuikUygulama.pdb
