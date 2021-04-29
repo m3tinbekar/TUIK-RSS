@@ -1,2 +1,2 @@
-# tuikUygulama
+# TUIK RSS APP
  
